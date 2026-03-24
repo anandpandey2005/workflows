@@ -3,7 +3,7 @@ name: Daily Contribution Heartbeat
 on:
   schedule:
     
-   - cron: '28 19 * * *'
+   - cron: '40 19 * * *'
   workflow_dispatch: 
 
 jobs:
